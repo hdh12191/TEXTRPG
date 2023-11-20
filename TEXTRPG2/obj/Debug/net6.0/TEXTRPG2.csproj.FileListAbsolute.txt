@@ -1,0 +1,30 @@
+C:\Users\hdh12\source\repos\TEXTRPG2\bin\Debug\net6.0\TEXTRPG2.exe
+C:\Users\hdh12\source\repos\TEXTRPG2\bin\Debug\net6.0\TEXTRPG2.deps.json
+C:\Users\hdh12\source\repos\TEXTRPG2\bin\Debug\net6.0\TEXTRPG2.runtimeconfig.json
+C:\Users\hdh12\source\repos\TEXTRPG2\bin\Debug\net6.0\TEXTRPG2.dll
+C:\Users\hdh12\source\repos\TEXTRPG2\bin\Debug\net6.0\TEXTRPG2.pdb
+C:\Users\hdh12\source\repos\TEXTRPG2\obj\Debug\net6.0\TEXTRPG2.csproj.AssemblyReference.cache
+C:\Users\hdh12\source\repos\TEXTRPG2\obj\Debug\net6.0\TEXTRPG2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hdh12\source\repos\TEXTRPG2\obj\Debug\net6.0\TEXTRPG2.AssemblyInfoInputs.cache
+C:\Users\hdh12\source\repos\TEXTRPG2\obj\Debug\net6.0\TEXTRPG2.AssemblyInfo.cs
+C:\Users\hdh12\source\repos\TEXTRPG2\obj\Debug\net6.0\TEXTRPG2.csproj.CoreCompileInputs.cache
+C:\Users\hdh12\source\repos\TEXTRPG2\obj\Debug\net6.0\TEXTRPG2.dll
+C:\Users\hdh12\source\repos\TEXTRPG2\obj\Debug\net6.0\refint\TEXTRPG2.dll
+C:\Users\hdh12\source\repos\TEXTRPG2\obj\Debug\net6.0\TEXTRPG2.pdb
+C:\Users\hdh12\source\repos\TEXTRPG2\obj\Debug\net6.0\TEXTRPG2.genruntimeconfig.cache
+C:\Users\hdh12\source\repos\TEXTRPG2\obj\Debug\net6.0\ref\TEXTRPG2.dll
+C:\Users\hdh12\OneDrive\바탕 화면\TEXTRPG2\bin\Debug\net6.0\TEXTRPG2.exe
+C:\Users\hdh12\OneDrive\바탕 화면\TEXTRPG2\bin\Debug\net6.0\TEXTRPG2.deps.json
+C:\Users\hdh12\OneDrive\바탕 화면\TEXTRPG2\bin\Debug\net6.0\TEXTRPG2.runtimeconfig.json
+C:\Users\hdh12\OneDrive\바탕 화면\TEXTRPG2\bin\Debug\net6.0\TEXTRPG2.dll
+C:\Users\hdh12\OneDrive\바탕 화면\TEXTRPG2\bin\Debug\net6.0\TEXTRPG2.pdb
+C:\Users\hdh12\OneDrive\바탕 화면\TEXTRPG2\obj\Debug\net6.0\TEXTRPG2.csproj.AssemblyReference.cache
+C:\Users\hdh12\OneDrive\바탕 화면\TEXTRPG2\obj\Debug\net6.0\TEXTRPG2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hdh12\OneDrive\바탕 화면\TEXTRPG2\obj\Debug\net6.0\TEXTRPG2.AssemblyInfoInputs.cache
+C:\Users\hdh12\OneDrive\바탕 화면\TEXTRPG2\obj\Debug\net6.0\TEXTRPG2.AssemblyInfo.cs
+C:\Users\hdh12\OneDrive\바탕 화면\TEXTRPG2\obj\Debug\net6.0\TEXTRPG2.csproj.CoreCompileInputs.cache
+C:\Users\hdh12\OneDrive\바탕 화면\TEXTRPG2\obj\Debug\net6.0\TEXTRPG2.dll
+C:\Users\hdh12\OneDrive\바탕 화면\TEXTRPG2\obj\Debug\net6.0\refint\TEXTRPG2.dll
+C:\Users\hdh12\OneDrive\바탕 화면\TEXTRPG2\obj\Debug\net6.0\TEXTRPG2.pdb
+C:\Users\hdh12\OneDrive\바탕 화면\TEXTRPG2\obj\Debug\net6.0\TEXTRPG2.genruntimeconfig.cache
+C:\Users\hdh12\OneDrive\바탕 화면\TEXTRPG2\obj\Debug\net6.0\ref\TEXTRPG2.dll
